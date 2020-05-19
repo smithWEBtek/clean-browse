@@ -1,0 +1,16 @@
+span.action-button {
+  color: white;
+  display: inline-block;
+  border: 2px solid purple;
+  border-radius: 12px;
+  background-color: rgb(107, 95, 110);
+  font-size: .7rem;
+  padding: .25rem;
+}
+
+.horizontal-border {
+  background-color: gray;
+  height: .2rem;
+  margin: 1rem 0;
+}
+
