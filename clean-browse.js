@@ -14,17 +14,7 @@ function onButtonClick(){
     }
   })
 }
-      removeCode()
-    } else if (event.currentTarget.dataset.id === 'undo-last'){
-      console.log('execute undo-last code')
  
-    } else if (event.currentTarget.dataset.id === 'undo-all') {
-      console.log('execute undo-all code')
- 
-    }
-  })
-}
-
 function removeCode() {
   console.log('exeycute remove code')
   

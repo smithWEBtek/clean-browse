@@ -14,3 +14,6 @@ span.action-button {
   margin: 1rem 0;
 }
 
+.wrapper {
+  border: 2px solid gray;
+}
